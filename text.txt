@@ -12,3 +12,5 @@ git diff --unstaged
 git diff HEAD
 git diff --staged
 git diff --cached
+git log
+git revert log id
