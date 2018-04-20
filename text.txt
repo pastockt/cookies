@@ -1,3 +1,14 @@
 Temp text file for git demo
 
 Changes!
+
+More Changes!
+
+git commands:
+git status
+git add
+git commit -m "message"
+git diff --unstaged
+git diff HEAD
+git diff --staged
+git diff --cached
